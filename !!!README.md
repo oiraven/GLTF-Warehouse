@@ -1,4 +1,4 @@
-REPO hanya untuk Container GLB / GLTF 2.0 dari blender
+REPO hanya Container untuk Upload GLB / GLTF 2.0 dari blender
 
 Upload GLB > share Raw Link untuk trigger preview visual ke Babylon jS
 
